@@ -145,16 +145,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\cjControl\cjControl.csproj">
-      <Project>{D98DFBC8-B232-4A1A-AD8D-82EB4C7D62CA}</Project>
-      <Name>cjControl</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Modbus\Modbus.csproj">
-      <Project>{D38738A4-CE76-478A-B573-63D4E4972D80}</Project>
+      <Project>{d38738a4-ce76-478a-b573-63d4e4972d80}</Project>
       <Name>Modbus</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

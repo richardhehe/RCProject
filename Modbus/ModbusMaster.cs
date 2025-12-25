@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 
 namespace Modbus
 {
+
+
+    //Modbus 主站抽象基类，用于 TCP / RTU 等不同实现的统一接口。
     public abstract class ModbusMaster : IDisposable
     {
         public int TimeOut { get; set; } = 150;
