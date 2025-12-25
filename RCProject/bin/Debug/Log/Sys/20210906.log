@@ -1,0 +1,24 @@
+09-06-15:36:08:683  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+09-06-15:36:09:659  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+09-06-15:36:39:891  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+09-06-15:36:40:849  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+09-06-15:38:29:781  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+09-06-15:38:30:573  : 未将对象引用设置到对象的实例。
+   在 RCProject.Frm_Main.Frm_Main_FormClosing(Object sender, FormClosingEventArgs e) 位置 D:\Rongcheer-07\EC01\RCProject\RCProject\Frm_Main.cs:行号 99
+09-06-15:39:00:227  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+09-06-15:39:01:181  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+09-06-15:49:03:286  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+09-06-15:49:05:317  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+09-06-15:49:36:142  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+09-06-15:49:38:174  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()

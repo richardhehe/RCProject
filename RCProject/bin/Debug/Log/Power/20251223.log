@@ -1,0 +1,32 @@
+12-23-10:40:03:313  : System.IO.IOException: 端口“COM1”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 \\Mac\Home\Desktop\EC01\EC01\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 \\Mac\Home\Desktop\EC01\EC01\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+12-23-16:38:16:807  : System.IO.IOException: 端口“COM1”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 \\Mac\Home\Desktop\cshap_project\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 \\Mac\Home\Desktop\cshap_project\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+12-23-17:31:28:499  : System.IO.IOException: 端口“COM1”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 \\Mac\Home\Desktop\cshap_project\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 \\Mac\Home\Desktop\cshap_project\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+12-23-17:43:45:430  : System.IO.IOException: 端口“COM1”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 \\Mac\Home\Desktop\cshap_project\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 \\Mac\Home\Desktop\cshap_project\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35

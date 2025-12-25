@@ -1,0 +1,68 @@
+10-13-15:58:43:664  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-15:58:45:874  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-16:03:47:794  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-16:04:25:616  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-16:18:24:755  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-16:18:26:754  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-16:27:10:544  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-16:27:12:590  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-16:27:46:856  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-16:27:48:868  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-16:30:43:834  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-16:30:45:854  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-16:35:31:772  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-16:35:33:813  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-17:00:58:003  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-17:01:00:022  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-17:01:47:656  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-17:01:49:693  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-17:55:43:953  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-17:55:46:000  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+10-13-20:16:56:755  : Modbus read error,no responce! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105
+10-13-20:17:51:895  : Modbus read error,no responce! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105
+10-13-20:18:43:724  : Modbus read error,no responce! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105
+10-13-20:28:06:201  : Modbus read error,no responce! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\EC01_1013\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105
+10-13-20:29:21:475  : Modbus read error,no responce! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\EC01_1013\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105
+10-13-20:29:29:024  : Modbus read error,no responce! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\EC01_1013\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105
+10-13-20:40:40:113  : Modbus read error,no responce! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\EC01_1013\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105

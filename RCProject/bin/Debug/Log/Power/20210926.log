@@ -1,0 +1,40 @@
+09-26-09:34:46:587  : 光源:0连接成功
+09-26-09:43:46:681  : 光源:0连接成功
+09-26-10:24:27:622  : 光源:0连接成功
+09-26-10:26:11:570  : 光源:0连接成功
+09-26-10:27:48:827  : 光源:0连接成功
+09-26-11:15:59:719  : 光源:0连接成功
+09-26-11:17:34:943  : 光源:0连接成功
+09-26-11:23:33:495  : 光源:0连接成功
+09-26-15:02:17:550  : System.IO.IOException: 端口“COM1”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\Administrator\Desktop\EC01\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\Administrator\Desktop\EC01\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+09-26-15:05:03:338  : System.IO.IOException: 端口“COM1”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\Administrator\Desktop\EC01\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\Administrator\Desktop\EC01\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+09-26-15:06:10:497  : System.IO.IOException: 端口“COM1”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\Administrator\Desktop\EC01\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\Administrator\Desktop\EC01\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+09-26-15:13:08:588  : System.IO.IOException: 端口“COM1”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\Administrator\Desktop\EC01\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\Administrator\Desktop\EC01\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35

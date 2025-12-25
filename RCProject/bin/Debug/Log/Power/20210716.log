@@ -1,0 +1,24 @@
+07-16-09:09:00:645  : System.IO.IOException: 端口“COM3”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+07-16-17:18:22:694  : System.IO.IOException: 端口“COM3”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+07-16-17:22:20:904  : System.IO.IOException: 端口“COM3”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35

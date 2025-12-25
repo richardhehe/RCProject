@@ -1,0 +1,132 @@
+09-24-11:53:01:822  : 写PMAC成功 startingAddress:11500  data0.5
+09-24-11:54:23:827  : 写PMAC成功 startingAddress:11500  data0.5
+09-24-11:54:39:843  : 写PMAC成功 startingAddress:11500  data1
+09-24-12:04:04:838  : 写PMAC成功 startingAddress:11500  data-1
+09-24-12:04:41:315  : 写PMAC成功 startingAddress:11501  data-1
+09-24-12:05:20:012  : 写PMAC成功 startingAddress:11501  data-9
+09-24-12:08:36:490  : 写PMAC成功 startingAddress:11501  data-9
+09-24-12:08:55:590  : 写PMAC成功 startingAddress:11501  data-11
+09-24-12:09:31:572  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:31:39:357  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:34:29:165  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:34:45:849  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:36:17:913  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:36:32:338  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:36:36:093  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:41:08:382  : 写PLC失败 startingAddress:11500  data-11  次数1Modbus write error,frame error! Fun:16, Addr:11500, Num:4
+09-24-14:41:08:443  : 写PLC失败 startingAddress:11500  data-11  次数2Modbus write error,frame error! Fun:16, Addr:11500, Num:4
+09-24-14:41:08:520  : 写PLC失败 startingAddress:11500  data-11  次数3Modbus write error,frame error! Fun:16, Addr:11500, Num:4
+09-24-14:41:08:584  : 写PLC失败 startingAddress:11500  data-11  次数4Modbus write error,frame error! Fun:16, Addr:11500, Num:4
+09-24-14:41:08:648  : 写PLC失败 startingAddress:11500  data-11  次数5Modbus write error,frame error! Fun:16, Addr:11500, Num:4
+09-24-14:41:08:708  : 写PLC失败 startingAddress:11500  data-11  次数6Modbus write error,frame error! Fun:16, Addr:11500, Num:4
+09-24-14:41:08:769  : 写PLC失败 startingAddress:11500  data-11  次数7Modbus write error,frame error! Fun:16, Addr:11500, Num:4
+09-24-14:41:08:878  : 写PLC失败 startingAddress:11500  data-11  次数8Modbus write error,frame error! Fun:16, Addr:11500, Num:4
+09-24-14:41:08:956  : 写PLC失败 startingAddress:11500  data-11  次数9Modbus write error,frame error! Fun:16, Addr:11500, Num:4
+09-24-14:41:09:066  : 写PLC失败 startingAddress:11500  data-11  次数10Modbus write error,frame error! Fun:16, Addr:11500, Num:4
+09-24-14:41:52:827  : 写PLC失败 startingAddress:11501  data-11  次数1Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:52:937  : 写PLC失败 startingAddress:11501  data-11  次数2Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:53:001  : 写PLC失败 startingAddress:11501  data-11  次数3Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:53:062  : 写PLC失败 startingAddress:11501  data-11  次数4Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:53:125  : 写PLC失败 startingAddress:11501  data-11  次数5Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:53:187  : 写PLC失败 startingAddress:11501  data-11  次数6Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:53:248  : 写PLC失败 startingAddress:11501  data-11  次数7Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:53:309  : 写PLC失败 startingAddress:11501  data-11  次数8Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:53:357  : 写PLC失败 startingAddress:11501  data-11  次数9Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:53:419  : 写PLC失败 startingAddress:11501  data-11  次数10Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:58:669  : 写PLC失败 startingAddress:11501  data-11  次数1Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:58:731  : 写PLC失败 startingAddress:11501  data-11  次数2Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:58:794  : 写PLC失败 startingAddress:11501  data-11  次数3Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:58:873  : 写PLC失败 startingAddress:11501  data-11  次数4Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:58:982  : 写PLC失败 startingAddress:11501  data-11  次数5Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:59:090  : 写PLC失败 startingAddress:11501  data-11  次数6Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:59:152  : 写PLC失败 startingAddress:11501  data-11  次数7Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:59:214  : 写PLC失败 startingAddress:11501  data-11  次数8Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:59:275  : 写PLC失败 startingAddress:11501  data-11  次数9Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:41:59:337  : 写PLC失败 startingAddress:11501  data-11  次数10Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:42:00:269  : 写PLC失败 startingAddress:11501  data-11  次数1Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:42:00:329  : 写PLC失败 startingAddress:11501  data-11  次数2Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:42:00:390  : 写PLC失败 startingAddress:11501  data-11  次数3Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:42:00:453  : 写PLC失败 startingAddress:11501  data-11  次数4Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:42:00:516  : 写PLC失败 startingAddress:11501  data-11  次数5Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:42:00:577  : 写PLC失败 startingAddress:11501  data-11  次数6Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:42:00:624  : 写PLC失败 startingAddress:11501  data-11  次数7Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:42:00:686  : 写PLC失败 startingAddress:11501  data-11  次数8Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:42:00:749  : 写PLC失败 startingAddress:11501  data-11  次数9Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:42:00:811  : 写PLC失败 startingAddress:11501  data-11  次数10Modbus write error,frame error! Fun:16, Addr:11501, Num:4
+09-24-14:42:12:927  : 写PMAC成功 startingAddress:11501  data-11
+09-24-14:42:29:601  : 写PMAC成功 startingAddress:11501  data-11.05
+09-24-14:42:32:444  : 写PMAC成功 startingAddress:11501  data-11.05
+09-24-14:42:35:556  : 写PMAC成功 startingAddress:11501  data-11.05
+09-24-14:42:51:958  : 写PMAC成功 startingAddress:11501  data-11.05
+09-24-14:43:48:356  : 写PMAC成功 startingAddress:11501  data-11.05
+09-24-14:44:03:506  : 写PMAC成功 startingAddress:11501  data-1.05
+09-24-14:44:52:285  : 写PMAC成功 startingAddress:11501  data-11
+09-24-14:45:15:030  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:16:861  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:17:103  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:17:295  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:17:490  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:17:670  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:17:866  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:18:070  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:18:278  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:18:512  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:18:664  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:18:846  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:19:051  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:19:306  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:19:454  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:19:666  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:19:890  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:20:115  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:20:337  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:20:619  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:20:991  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:21:170  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:21:495  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:21:631  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:21:842  : 写PMAC成功 startingAddress:11503  data-11
+09-24-14:45:32:115  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:45:33:159  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:45:33:387  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:45:33:611  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:45:33:839  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:45:34:049  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:45:34:278  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:45:34:523  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:45:34:746  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:45:35:145  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:45:35:455  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:45:36:067  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:45:39:114  : 写PMAC成功 startingAddress:11500  data-11
+09-24-14:45:39:342  : 写PMAC成功 startingAddress:11500  data-11
+09-24-15:14:10:212  : 写PMAC成功 startingAddress:11500  data11.2
+09-24-15:17:09:421  : 写PMAC成功 startingAddress:11500  data11.2
+09-24-15:17:18:762  : 写PMAC成功 startingAddress:11500  data11.2
+09-24-15:31:35:738  : 写PMAC成功 startingAddress:11500  data100.11
+09-24-15:34:29:311  : 写PMAC成功 startingAddress:11500  data100.11
+09-24-15:37:21:885  : 写PMAC成功 startingAddress:11500  data100.11
+09-24-15:39:50:263  : 写PMAC成功 startingAddress:11500  data100.11
+09-24-15:41:19:976  : 写PMAC成功 startingAddress:11500  data100.11
+09-24-15:41:46:878  : 写PLC失败 startingAddress:11500  data100.11  次数1Modbus write error,id error! Fun:16, Addr:11500, Num:2
+09-24-15:41:46:880  : 写PMAC成功 startingAddress:11500  data100.11
+09-24-15:42:29:164  : 写PMAC成功 startingAddress:11500  data100.12
+09-24-15:43:36:830  : 写PMAC成功 startingAddress:11500  data100.12
+09-24-15:44:02:164  : 写PMAC成功 startingAddress:11500  data100.15
+09-24-15:47:36:084  : 写PMAC成功 startingAddress:11500  data12.11
+09-24-15:48:04:433  : 写PMAC成功 startingAddress:11500  data12.11
+09-24-15:48:27:811  : 写PLC失败 startingAddress:11500  data10.1  次数1Modbus write error,id error! Fun:16, Addr:11500, Num:2
+09-24-15:48:27:823  : 写PMAC成功 startingAddress:11500  data10.1
+09-24-15:49:31:080  : 写PMAC成功 startingAddress:11501  data10.1
+09-24-15:50:10:122  : 写PMAC成功 startingAddress:11501  data10.1
+09-24-15:50:26:173  : 写PMAC成功 startingAddress:11501  data10.11
+09-24-15:50:47:322  : 写PMAC成功 startingAddress:11501  data13.11
+09-24-15:51:22:237  : 写PMAC成功 startingAddress:11501  data13.11
+09-24-15:51:39:171  : 写PMAC成功 startingAddress:11501  data13.13
+09-24-15:52:09:966  : 写PMAC成功 startingAddress:11501  data13.12345
+09-24-15:52:42:696  : 写PMAC成功 startingAddress:11500  data13.12345
+09-24-15:53:17:469  : 写PMAC成功 startingAddress:11500  data13.12345
+09-24-17:26:50:160  : 写PMAC成功 startingAddress:11500  data999
+09-24-17:26:50:169  : 写PMAC成功 startingAddress:11510  data0.1
+09-24-17:29:57:522  : 写PMAC成功 startingAddress:11500  data999
+09-24-17:29:58:361  : 写PMAC成功 startingAddress:11510  data0.1

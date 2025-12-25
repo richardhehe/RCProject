@@ -1,0 +1,2 @@
+10-09-08:32:03:861  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()

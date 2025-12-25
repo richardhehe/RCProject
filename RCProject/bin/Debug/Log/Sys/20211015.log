@@ -1,0 +1,58 @@
+10-15-09:33:36:857  : Modbus read error,no responce! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105
+10-15-10:58:46:418  : 未能找到路径“D:\Data\20211015\FrontPhotoData.csv”的一部分。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 RCProject.CSV.WriteCsv.WriteCsvFile(String Filename, Object Savedata) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 20
+   在 RCProject.PLC.PlcSingalsDeal.SaveFrontPhotoResult() 位置 D:\EC01\RCProject\RCProject\PLC\PlcSingalsDeal.cs:行号 293
+   在 RCProject.PLC.PlcSingalsDeal.SaveFrontPhotoResult(String[] result) 位置 D:\EC01\RCProject\RCProject\PLC\PlcSingalsDeal.cs:行号 366
+10-15-11:00:33:364  : 未能找到路径“D:\Data\20211015\RecheckData.csv”的一部分。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 RCProject.CSV.WriteCsv.WriteCsvFile(String Filename, Object Savedata) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 20
+   在 RCProject.PLC.PlcSingalsDeal.SaveRecheckResult() 位置 D:\EC01\RCProject\RCProject\PLC\PlcSingalsDeal.cs:行号 282
+   在 RCProject.PLC.PlcSingalsDeal.SaveRecheckResult(String[] result, String chazhi) 位置 D:\EC01\RCProject\RCProject\PLC\PlcSingalsDeal.cs:行号 346
+10-15-11:26:04:335  : Modbus read error,no responce! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105
+10-15-16:32:16:467  : Modbus read error,no responce! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105
+10-15-16:32:16:607  : Modbus read error,id error! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 104
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105
+10-15-17:25:19:768  : 索引超出了数组界限。
+   在 RCProject.CSV.WriteCsv.SaveFrontPhotoResult(String[] result) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 156
+10-15-17:29:10:036  : 文件“D:\Data\20211015FrontPhotoData.csv”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 RCProject.CSV.WriteCsv.WriteCsvFile(String Filename, Object Savedata) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 21
+   在 RCProject.CSV.WriteCsv.SaveFrontPhotoResult(String[] result) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 158
+10-15-17:59:02:428  : Modbus read error,no responce! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105
+10-15-18:44:47:034  : 文件“D:\Data\20211015FrontPhotoData.csv”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 RCProject.CSV.WriteCsv.WriteCsvFile(String Filename, Object Savedata) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 21
+   在 RCProject.CSV.WriteCsv.SaveFrontPhotoResult(String[] result) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 158
+10-15-18:50:24:012  : 索引超出了数组界限。
+   在 RCProject.CSV.WriteCsv.SaveFrontPhotoResult(String[] result) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 156
+10-15-18:55:43:184  : 文件“D:\Data\20211015FrontPhotoData.csv”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 RCProject.CSV.WriteCsv.WriteCsvFile(String Filename, Object Savedata) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 21
+   在 RCProject.CSV.WriteCsv.SaveFrontPhotoResult(String[] result) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 158
+10-15-19:13:27:379  : 索引超出了数组界限。
+   在 RCProject.CSV.WriteCsv.SaveFrontPhotoResult(String[] result) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 156

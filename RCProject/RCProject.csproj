@@ -145,6 +145,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\cjControl\cjControl.csproj">
+      <Project>{d98dfbc8-b232-4a1a-ad8d-82eb4c7d62ca}</Project>
+      <Name>cjControl</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Modbus\Modbus.csproj">
       <Project>{d38738a4-ce76-478a-b573-63d4e4972d80}</Project>
       <Name>Modbus</Name>

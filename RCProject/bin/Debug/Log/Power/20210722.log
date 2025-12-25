@@ -1,0 +1,1129 @@
+07-22-10:16:22:277  : 光源:0连接成功
+07-22-10:39:11:107  : 光源:0连接成功
+07-22-10:40:02:102  : 光源:0连接成功
+07-22-10:58:57:151  : 光源:0连接成功
+07-22-11:11:52:254  : 光源:0连接成功
+07-22-11:14:54:303  : 光源:0连接成功
+07-22-11:18:50:275  : 光源:0连接成功
+07-22-11:24:17:431  : 光源:0连接成功
+07-22-11:24:55:249  : 光源:0连接成功
+07-22-11:26:20:587  : 光源:0连接成功
+07-22-13:46:54:711  : System.IO.IOException: 端口“COM7”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+07-22-13:52:29:538  : System.IO.IOException: 端口“COM7”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+07-22-13:53:16:379  : System.IO.IOException: 端口“COM7”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+07-22-13:53:25:877  : System.IO.IOException: 端口“COM7”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+07-22-13:53:43:330  : System.IO.IOException: 端口“COM7”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 D:\Rongcheer-04\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+07-22-15:37:15:075  : System.IO.IOException: 端口“COM7”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\rongcheer\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\rongcheer\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+07-22-16:13:38:391  : 光源:0连接成功
+07-22-16:13:44:549  : 连到系统上的设备没有发挥作用。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:44:658  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:44:674  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:44:721  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:44:768  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:44:784  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:44:830  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:44:846  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:44:893  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:44:908  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:45:737  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:45:768  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:45:815  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:45:846  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:45:893  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:45:971  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:46:002  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:46:033  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:46:065  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:46:096  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:46:596  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:46:643  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:46:674  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:46:736  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:46:815  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:46:846  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:018  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:049  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:096  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:127  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:205  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:252  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:408  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:455  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:502  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:533  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:596  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:768  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:815  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:846  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:877  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:908  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:940  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:47:971  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:48:002  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:48:049  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:48:096  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:48:112  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:48:158  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:48:190  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:48:236  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:48:268  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:48:299  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:48:565  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:48:596  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:49:221  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:49:330  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:49:424  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:49:471  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:49:549  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:49:565  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:49:674  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:50:283  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:51:486  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:51:533  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:51:565  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:51:596  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:51:627  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:51:659  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:51:705  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:51:736  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:127  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:174  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:205  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:236  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:268  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:315  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:393  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:424  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:471  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:502  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:549  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:580  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:611  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:643  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:674  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:861  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:893  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:940  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:52:955  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:53:002  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:53:049  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:53:158  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:53:190  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:53:221  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:53:268  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:53:377  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:53:408  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:54:424  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:54:549  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:54:580  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:54:611  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:54:643  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:54:674  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:54:705  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:54:737  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:54:784  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:54:815  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:54:846  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:54:877  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:54:908  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:54:955  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:55:018  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:55:190  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:55:237  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:55:596  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:55:705  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:55:721  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:55:783  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:55:799  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:55:846  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:55:877  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:55:909  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:56:299  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:56:331  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:56:377  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:56:393  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:56:440  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:56:471  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:56:877  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:56:924  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:361  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:455  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:486  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:518  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:549  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:596  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:627  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:658  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:705  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:721  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:768  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:815  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:846  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:877  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:908  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:57:956  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:58:002  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:58:049  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:58:487  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:58:518  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:58:549  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:58:596  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:58:643  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:58:674  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:58:705  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:58:736  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:58:768  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:58:799  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:59:033  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:13:59:080  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:14:07:512  : System.UnauthorizedAccessException: 对端口“COM7”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+07-22-16:14:17:600  : System.UnauthorizedAccessException: 对端口“COM7”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+07-22-16:20:14:031  : 光源:0连接成功
+07-22-16:22:34:120  : 光源:0连接成功
+07-22-16:26:23:982  : 光源:0连接成功
+07-22-16:27:05:279  : 连到系统上的设备没有发挥作用。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:27:05:664  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:32:50:524  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:32:50:903  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:33:32:834  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:33:33:212  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:48:28:994  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:48:34:439  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:50:03:430  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:50:05:911  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:50:52:574  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:50:52:843  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:51:15:212  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:51:15:602  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:54:52:715  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:54:53:109  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:57:27:357  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:57:27:759  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:58:49:029  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:58:49:420  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:59:39:261  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-16:59:39:668  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:00:01:523  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:00:01:911  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:04:16:415  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue)
+07-22-17:04:16:898  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue)
+07-22-17:11:11:830  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue)
+07-22-17:11:12:226  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue)
+07-22-17:12:55:404  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue)
+07-22-17:12:55:805  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue)
+07-22-17:15:35:554  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue)
+07-22-17:15:36:833  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue)
+07-22-17:32:41:055  : 光源:0连接成功
+07-22-17:34:39:237  : 连到系统上的设备没有发挥作用。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:34:39:628  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:35:16:424  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:35:16:768  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:47:35:820  : 光源:0连接成功
+07-22-17:49:14:216  : 连到系统上的设备没有发挥作用。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:49:14:592  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:50:59:560  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:50:59:920  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:57:44:230  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:57:44:621  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:58:40:045  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:58:40:326  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:59:12:912  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-17:59:13:428  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-18:00:21:365  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52
+07-22-18:00:21:927  : 对端口的访问被拒绝。   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   在 System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 RCProject.power.PowerCtrlRq.WriteSerialport(Int32 chNum, Int32 lightValue) 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\power\PowerCtrlRq.cs:行号 52

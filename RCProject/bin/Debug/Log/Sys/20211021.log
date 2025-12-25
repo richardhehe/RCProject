@@ -1,0 +1,14 @@
+10-21-14:29:14:857  : Modbus read error,no responce! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105
+10-21-15:47:41:556  : 索引超出了数组界限。
+   在 RCProject.CSV.WriteCsv.SaveFrontPhotoResult(String[] result) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 156
+10-21-15:49:15:337  : 索引超出了数组界限。
+   在 RCProject.CSV.WriteCsv.SaveFrontPhotoResult(String[] result) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 156
+10-21-16:01:57:613  : 索引超出了数组界限。
+   在 RCProject.CSV.WriteCsv.SaveFrontPhotoResult(String[] result) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 156
+10-21-17:03:23:752  : Modbus read error,no responce! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105

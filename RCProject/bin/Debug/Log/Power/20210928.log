@@ -1,0 +1,14 @@
+09-28-13:55:03:925  : System.IO.IOException: 端口“COM1”不存在。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\Administrator\Desktop\EC01\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 RCProject.power.PowerCtrlRq.InitSerialport() 位置 C:\Users\Administrator\Desktop\EC01\RCProject\RCProject\power\PowerCtrlRq.cs:行号 35
+09-28-14:01:34:931  : 光源:0连接成功
+09-28-14:11:13:346  : 光源:0连接成功
+09-28-14:11:40:323  : 光源:0连接成功
+09-28-14:21:28:254  : 光源:0连接成功
+09-28-14:25:14:253  : 光源:0连接成功
+09-28-14:48:22:623  : 光源:0连接成功

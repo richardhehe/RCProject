@@ -1,0 +1,33 @@
+10-16-09:03:50:955  : Modbus read error,no responce! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105
+10-16-09:05:02:162  : Modbus read error,no responce! Fun:1, Addr:6400, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105
+10-16-16:44:42:902  : 未将对象引用设置到对象的实例。
+   在 Communication.HTCOMMSocketClient.Send(Byte[] data)
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 87
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 105
+10-16-16:44:42:911  : 未将对象引用设置到对象的实例。
+   在 Modbus.ModbusTcpMaster.ConnectPlc() 位置 C:\Users\Lenovo\Desktop\EC01\EC01\RCProject\Modbus\ModbusTcpMaster.cs:行号 38
+   在 RCProject.PLC.PlcManager.GetConnected() 位置 D:\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 75
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\EC01\RCProject\RCProject\PLC\PlcManager.cs:行号 98
+10-16-16:44:42:917  : 未将对象引用设置到对象的实例。
+   在 Modbus.ModbusTcpMaster.ConnectPlc()
+   在 RCProject.PLC.PlcManager.GetConnected()
+   在 RCProject.PLC.PlcManager.PlcRead()
+10-16-16:44:42:925  : 未将对象引用设置到对象的实例。
+   在 Modbus.ModbusTcpMaster.ConnectPlc()
+   在 RCProject.PLC.PlcManager.GetConnected()
+   在 RCProject.PLC.PlcManager.PlcRead()
+10-16-16:44:42:932  : 未将对象引用设置到对象的实例。
+   在 Modbus.ModbusTcpMaster.ConnectPlc()
+   在 RCProject.PLC.PlcManager.GetConnected()
+   在 RCProject.PLC.PlcManager.PlcRead()
+10-16-16:44:42:939  : 未将对象引用设置到对象的实例。
+   在 Modbus.ModbusTcpMaster.ConnectPlc()
+   在 RCProject.PLC.PlcManager.GetConnected()
+   在 RCProject.PLC.PlcManager.PlcRead()

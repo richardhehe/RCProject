@@ -1,0 +1,274 @@
+07-20-15:33:27:984  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+07-20-15:33:42:870  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+07-20-15:35:45:522  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+07-20-15:39:05:761  : 无法访问已释放的对象。
+对象名:“Frm_Main”。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 RCProject.Frm_Main.setLable_AlarmMsg(String Alarmmsgs) 位置 D:\RCProject\RCProject\Frm_Main.cs:行号 229
+   在 RCProject.PLC.PlcReadCoils.DealAlarmSignal() 位置 D:\RCProject\RCProject\PLC\PlcReadCoils.cs:行号 84
+   在 RCProject.PLC.PlcReadCoils.Updata(Boolean[] data) 位置 D:\RCProject\RCProject\PLC\PlcReadCoils.cs:行号 46
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 D:\RCProject\RCProject\PLC\PlcManager.cs:行号 101
+07-20-16:33:44:975  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:39:257  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:39:413  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:39:569  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:39:726  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:39:882  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:40:054  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:40:210  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:40:304  : Modbus read error,id error! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:40:460  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:40:616  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:40:772  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:40:881  : Modbus read error,id error! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:41:069  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:41:225  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:41:381  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:41:444  : Modbus read error,id error! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:41:600  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:41:756  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:41:912  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:42:069  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:42:225  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:42:381  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:42:537  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:42:694  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:42:850  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:42:944  : Modbus read error,id error! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:43:147  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:43:303  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:39:43:365  : Modbus read error,id error! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-16:46:41:063  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead()
+07-20-16:53:26:448  : 无法访问已释放的对象。
+对象名:“Frm_Main”。
+   在 System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   在 System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   在 RCProject.Frm_Main.setLable_AlarmMsg(String Alarmmsgs)
+   在 RCProject.PLC.PlcReadCoils.DealAlarmSignal()
+   在 RCProject.PLC.PlcReadCoils.Updata(Boolean[] data)
+   在 RCProject.PLC.PlcManager.PlcRead()
+07-20-17:05:55:258  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:55:426  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:55:588  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:55:745  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:55:904  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:56:063  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:56:225  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:56:296  : Modbus read error,id error! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:56:494  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:56:656  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:56:830  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:56:885  : Modbus read error,id error! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:57:119  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:57:278  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:57:435  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:57:456  : Modbus read error,id error! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:57:638  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:57:802  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:57:969  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:58:129  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:58:288  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:58:459  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:58:621  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:58:796  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:58:966  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:58:976  : Modbus read error,id error! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:59:197  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:59:365  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:05:59:405  : Modbus read error,id error! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead() 位置 C:\Users\Administrator\Desktop\ET08\RCProject\RCProject\PLC\PlcManager.cs:行号 96
+07-20-17:08:26:227  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead()
+07-20-17:10:21:552  : Modbus read error,no responce! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 86
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead()
+07-20-17:10:21:571  : Modbus read error,id error! Fun:1, Addr:3000, Num:100
+   在 Modbus.ModbusTcpMaster.Read(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusTcpMaster.cs:行号 95
+   在 Modbus.ModbusMaster.ReadCoils(Byte slaveAddress, UInt16 startingAddress, UInt16 registerNumber) 位置 D:\RCProject\Modbus\ModbusMaster.cs:行号 53
+   在 RCProject.PLC.PlcManager.PlcRead()

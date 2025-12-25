@@ -1,0 +1,6 @@
+10-22-09:57:24:114  : 索引超出了数组界限。
+   在 RCProject.CSV.WriteCsv.SaveFrontPhotoResult(String[] result) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 156
+10-22-09:59:24:370  : 索引超出了数组界限。
+   在 RCProject.CSV.WriteCsv.SaveFrontPhotoResult(String[] result) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 156
+10-22-10:26:42:151  : 索引超出了数组界限。
+   在 RCProject.CSV.WriteCsv.SaveFrontPhotoResult(String[] result) 位置 D:\EC01\RCProject\RCProject\CSV\WriteCsv.cs:行号 156

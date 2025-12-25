@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <!-- PLC连接信息 -->
+  <Connections>
+    <Index>0</Index>
+    <Port>8180</Port>
+    <IP>127.0.0.2</IP>
+    <Port>8180</Port>
+  </Connections>
+  <!-- PLC地址 -->
+  <Address>
+    <!-- PLC地址： PC-PLC地址起始(写，位) -->
+    <BitWriteStart>M17140</BitWriteStart>
+    <!-- PLC地址： PLC-PC地址起始(读，位) -->
+    <BitReadStart>M16140</BitReadStart>
+    <!-- PLC地址： PLC-PC地址起始(写，字) -->
+    <RegWriteStart>D30274</RegWriteStart>
+    <!-- PLC地址： PLC-PC地址起始(读，字) -->
+    <RegReadStart>D20120</RegReadStart>
+    <!-- PLC地址： 握手信号 -->
+    <HandShaking>D30001</HandShaking>
+  </Address>
+</Settings>

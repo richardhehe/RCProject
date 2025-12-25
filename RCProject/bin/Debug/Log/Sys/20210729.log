@@ -1,0 +1,23 @@
+07-29-10:20:12:457  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+07-29-10:20:12:491  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+07-29-10:21:57:406  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+07-29-10:21:59:517  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+07-29-10:26:21:787  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+07-29-10:26:22:780  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+07-29-10:27:50:809  : Socket连接失败由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 Communication.HTCOMMSocketClient.Connect()
+07-29-10:27:50:861  : 当有一个更早的异步调用正在进行时，不能阻止调用此套接字。
+   在 System.Net.Sockets.Socket.ValidateBlockingMode()
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer)
+   在 Communication.HTCOMMSocketClient.Send(Byte[] data)
+   在 Modbus.ModbusTcpMaster.Write(Byte slaveAddress, Byte functionCode, UInt16 startingAddress, UInt16 registerNumber, Byte[] data) 位置 C:\Users\Lenovo\Desktop\T08\RCProject\Modbus\ModbusTcpMaster.cs:行号 149
+   在 Modbus.ModbusMaster.WriteSingleCoil(Byte slaveAddress, UInt16 startingAddress, Boolean data) 位置 C:\Users\Lenovo\Desktop\T08\RCProject\Modbus\ModbusMaster.cs:行号 89
+   在 RCProject.Frm_Main.Frm_Main_FormClosing(Object sender, FormClosingEventArgs e) 位置 C:\Users\Lenovo\Desktop\T08\RCProject\RCProject\Frm_Main.cs:行号 99
